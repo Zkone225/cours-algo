@@ -106,6 +106,20 @@ for (let i = 0; i < tabmois.length ; i++) {
 /*let uneChaineDeCaracteres = "Quel delice qu'est l'Algo avec JS";
 console.log(uneChaineDeCaracteres.length);
 console.log(uneChaineDeCaracteres[6]);*/
+/*let m=prompt("m=");
+let n=prompt("n=");
+m=m*1
+n=n*1
+console.log(typeof  m);
+console.log(typeof n);*/
+
+/*for (i=1; i>=10 ; i=i+1); {
+console.log(i);}*/
+
+let compteur=1;
+ while (comptuer<=10); {
+console.log(compteur)
+compteur=compteur+1}
 
 
 
