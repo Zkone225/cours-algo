@@ -15,7 +15,8 @@ if (n<m) {
 o=n;
 n=m;
 m=o;
-
+console.log("Nous permutons n et m donc n devient " + n + " et m devient " + m)
+console.log("Ensuite nous affichons les nombres de n à m")
 for (let i = n ; i <= m; i++){
         console.log(i)
 
