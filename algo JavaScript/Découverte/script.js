@@ -117,7 +117,7 @@ console.log(typeof n);*/
 console.log(i);}*/
 
 let compteur=1;
- while (comptuer<=10); {
+ while (compteur<=10); {
 console.log(compteur)
 compteur=compteur+1}
 
