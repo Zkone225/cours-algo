@@ -4,8 +4,10 @@ while (compteur <= 10) {
     console.log(compteur)
     compteur = compteur + 1
 }*/
-let somme=0;
+//Afficher les nombres de 1 à 10.
+
+let i=1;
 for (let i = 1; i <=10 ; i=i+1)
-somme = somme +1; {
-    console.log(somme)
+{
+    console.log(i)
 }
